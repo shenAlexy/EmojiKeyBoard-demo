@@ -125,9 +125,9 @@
 		C12CBCA51C91841500F2767A /* ic_emoji_blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C12CBC491C91841500F2767A /* ic_emoji_blue@2x.png */; };
 		C12CBCA61C91841500F2767A /* ic_emoji_blue@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C12CBC4A1C91841500F2767A /* ic_emoji_blue@3x.png */; };
 		C14808241C925DEB00A3055A /* 演示效果图.gif in Resources */ = {isa = PBXBuildFile; fileRef = C14808231C925DEB00A3055A /* 演示效果图.gif */; };
-		C1CA59881C9265A80019218B /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59851C9265A80019218B /* 1.png */; };
-		C1CA59891C9265A80019218B /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59861C9265A80019218B /* 2.png */; };
-		C1CA598A1C9265A80019218B /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59871C9265A80019218B /* 3.png */; };
+		C1CA59881C9265A80019218B /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59851C9265A80019218B /* x.png */; };
+		C1CA59891C9265A80019218B /* y.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59861C9265A80019218B /* y.png */; };
+		C1CA598A1C9265A80019218B /* z.png in Resources */ = {isa = PBXBuildFile; fileRef = C1CA59871C9265A80019218B /* z.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -272,9 +272,9 @@
 		C12CBC491C91841500F2767A /* ic_emoji_blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_emoji_blue@2x.png"; sourceTree = "<group>"; };
 		C12CBC4A1C91841500F2767A /* ic_emoji_blue@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_emoji_blue@3x.png"; sourceTree = "<group>"; };
 		C14808231C925DEB00A3055A /* 演示效果图.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "演示效果图.gif"; sourceTree = "<group>"; };
-		C1CA59851C9265A80019218B /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		C1CA59861C9265A80019218B /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		C1CA59871C9265A80019218B /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		C1CA59851C9265A80019218B /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		C1CA59861C9265A80019218B /* y.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = y.png; sourceTree = "<group>"; };
+		C1CA59871C9265A80019218B /* z.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = z.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -358,9 +358,9 @@
 		C12B881A1C8FCC3A00202F79 /* EmojiKeyBoard-demo */ = {
 			isa = PBXGroup;
 			children = (
-				C1CA59851C9265A80019218B /* 1.png */,
-				C1CA59861C9265A80019218B /* 2.png */,
-				C1CA59871C9265A80019218B /* 3.png */,
+				C1CA59851C9265A80019218B /* x.png */,
+				C1CA59861C9265A80019218B /* y.png */,
+				C1CA59871C9265A80019218B /* z.png */,
 				C14808231C925DEB00A3055A /* 演示效果图.gif */,
 				C12CBBED1C91841500F2767A /* Emoji */,
 				C12CBBEB1C9183C900F2767A /* Emoji.plist */,
@@ -575,7 +575,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1CA59881C9265A80019218B /* 1.png in Resources */,
+				C1CA59881C9265A80019218B /* x.png in Resources */,
 				C12CBC861C91841500F2767A /* 52.png in Resources */,
 				C12CBC721C91841500F2767A /* 34.png in Resources */,
 				C12CBC801C91841500F2767A /* 47.png in Resources */,
@@ -597,7 +597,7 @@
 				C12CBC541C91841500F2767A /* compose_emotion_delete@3x.png in Resources */,
 				C12CBC511C91841500F2767A /* chat_bottom_keyboard_nor@2x.png in Resources */,
 				C12CBC901C91841500F2767A /* 61.png in Resources */,
-				C1CA598A1C9265A80019218B /* 3.png in Resources */,
+				C1CA598A1C9265A80019218B /* z.png in Resources */,
 				C12CBC671C91841500F2767A /* 24.png in Resources */,
 				C12CBC4D1C91841500F2767A /* btn_photo@2x.png in Resources */,
 				C12CBC791C91841500F2767A /* 40.png in Resources */,
@@ -638,7 +638,7 @@
 				C12CBC7A1C91841500F2767A /* 41.png in Resources */,
 				C12CBC881C91841500F2767A /* 54.png in Resources */,
 				C12CBC6A1C91841500F2767A /* 27.png in Resources */,
-				C1CA59891C9265A80019218B /* 2.png in Resources */,
+				C1CA59891C9265A80019218B /* y.png in Resources */,
 				C12CBC7C1C91841500F2767A /* 43.png in Resources */,
 				C12CBC841C91841500F2767A /* 50.png in Resources */,
 				C12CBC891C91841500F2767A /* 55.png in Resources */,
@@ -818,7 +818,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
-				GCC_PREFIX_HEADER = "/Users/shenguanhua/Desktop/EmojiKeyBoard-demo/EmojiKeyBoard-demo/EmojiKeyBoard-demo/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/EmojiKeyBoard-demo/PrefixHeader.pch";
 				INFOPLIST_FILE = "EmojiKeyBoard-demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -832,7 +832,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
-				GCC_PREFIX_HEADER = "/Users/shenguanhua/Desktop/EmojiKeyBoard-demo/EmojiKeyBoard-demo/EmojiKeyBoard-demo/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/EmojiKeyBoard-demo/PrefixHeader.pch";
 				INFOPLIST_FILE = "EmojiKeyBoard-demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
