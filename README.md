@@ -3,7 +3,7 @@
   
 ## 效果图：
 
- ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/1.png) ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/2.png) ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/3.png)
+ ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/x.png) ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/y.png) ![image](https://github.com/shenAlexy/EmojiKeyBoard-demo/blob/master/EmojiKeyBoard-demo/EmojiKeyBoard-demo/z.png)
  
  
 > 注：由于github慢，这里只贴出了jpg图，code里有动态演示图gif。
