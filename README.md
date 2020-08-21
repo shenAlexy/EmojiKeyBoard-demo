@@ -7,16 +7,5 @@
  
  
 > 注：由于github慢，这里只贴出了jpg图，code里有动态演示图gif。
-
-## 联系我
-   微信公众号:  iOSDevTeam
-   
-   Email: shenguanhua123@gmail.com
-
-   
-   [我的博客](http://blog.csdn.net/shenguanhua)  
-
-
-   
    
 
